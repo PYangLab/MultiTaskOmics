@@ -1,0 +1,14 @@
+{% extends "main.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <style>
+    .md-sidebar { display: none !important; }
+    .md-content__button { display: none !important; }
+    .md-content { max-width: none; }
+    .md-main__inner { max-width: none; margin: 0; }   /* widen content only — not .md-tabs */
+    .md-content__inner { padding: 0; }
+    .md-content__inner::before { display: none; height: 0; }
+    .md-typeset > .dc-home:first-child { margin-top: 0; }
+  </style>
+{% endblock %}

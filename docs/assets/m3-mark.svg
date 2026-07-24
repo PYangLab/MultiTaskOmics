@@ -1,0 +1,8 @@
+<svg viewBox="436 416 368 410" width="368" height="410" xmlns="http://www.w3.org/2000/svg" font-family="Poppins, sans-serif">
+  <g stroke-linejoin="round" stroke-width="1.5">
+    <path d="M481.4 542 L620 462 L758.6 542 L717 566 L620 510 L523 566 Z" fill="#DBD5F4" stroke="#BCB1ED" transform="translate(0,-30)"></path>
+    <path d="M620 782 L481.4 702 L481.4 542 L523 566 L523 678 L620 734 Z" fill="#E3E3E6" stroke="#C6C6CB" transform="translate(-26,15)"></path>
+    <path d="M758.6 542 L758.6 702 L620 782 L620 734 L717 678 L717 566 Z" fill="#F6CFC9" stroke="#ECB1AA" transform="translate(26,15)"></path>
+  </g>
+  <text x="620" y="664" text-anchor="middle" font-size="118" font-weight="800" fill="#173A7E" letter-spacing="-4">M<tspan font-size="60" dy="-40" dx="2">3</tspan></text>
+</svg>
