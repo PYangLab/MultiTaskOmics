@@ -77,4 +77,4 @@ To serve the site from your own domain instead:
 
 ## License
 
-Add a license of your choice (e.g. `LICENSE` file) before publishing.
+Released under the [MIT License](LICENSE).
