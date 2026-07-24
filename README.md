@@ -36,24 +36,6 @@ multibatch, multi-condition single-cell analysis.
 └── .github/workflows/      # GitHub Actions (build + deploy)
 ```
 
-## Local development
-
-Requires Python 3.9+.
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-mkdocs serve
-```
-
-Then open http://127.0.0.1:8000/.
-
-To produce a production build (fails on warnings) into `site/`:
-
-```bash
-mkdocs build --strict
-```
 
 ## Deployment
 
