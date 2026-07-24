@@ -37,24 +37,6 @@ multibatch, multi-condition single-cell analysis.
 ```
 
 
-## Deployment
-
-Every push to `main` builds and deploys the site to GitHub Pages via
-[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
-
-**One-time setup:** in the repository, go to **Settings → Pages → Build and
-deployment** and set **Source** to **GitHub Actions**. The next push to `main`
-publishes to https://pyanglab.github.io/MultiTaskOmics/.
-
-### Using a custom domain
-
-To serve the site from your own domain instead:
-
-1. Create `docs/CNAME` containing the domain (e.g. `multitask-omics.org`).
-2. Set `site_url` in `mkdocs.yml` to `https://your-domain/`.
-3. Point the domain's DNS at GitHub Pages and set the custom domain under
-   **Settings → Pages**.
-
 ## License
 
 Released under the [MIT License](LICENSE).
