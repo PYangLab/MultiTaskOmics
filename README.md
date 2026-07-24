@@ -7,9 +7,7 @@ multibatch, multi-condition single-cell analysis.
 
 **Live site:** https://pyanglab.github.io/MultiTaskOmics/
 
-The site is built with [MkDocs](https://www.mkdocs.org/) and the
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme, with a
-custom full-width landing page and a hero canvas animation.
+
 
 ## The ecosystem
 
