@@ -1,9 +1,9 @@
 site_name: Multi-Task Omics
 site_description: An ecosystem for multimodal, multi-condition single-cell analysis — M3, scMultiBench, and Matilda
 site_author: PYangLab
-site_url: https://pyanglab.github.io/multi-task-omics/
-repo_url: https://github.com/PYangLab/multi-task-omics
-repo_name: PYangLab/multi-task-omics
+site_url: https://pyanglab.github.io/MultiTaskOmics/
+repo_url: https://github.com/PYangLab/MultiTaskOmics
+repo_name: PYangLab/MultiTaskOmics
 
 docs_dir: docs
 

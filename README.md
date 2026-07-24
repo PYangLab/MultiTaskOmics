@@ -1,11 +1,11 @@
 # Multi-Task Omics
 
-[![Deploy site](https://github.com/PYangLab/multi-task-omics/actions/workflows/deploy.yml/badge.svg)](https://github.com/PYangLab/multi-task-omics/actions/workflows/deploy.yml)
+[![Deploy site](https://github.com/PYangLab/MultiTaskOmics/actions/workflows/deploy.yml/badge.svg)](https://github.com/PYangLab/MultiTaskOmics/actions/workflows/deploy.yml)
 
 Landing site for **Multi-Task Omics** — an ecosystem of methods for multimodal,
 multibatch, multi-condition single-cell analysis.
 
-**Live site:** https://pyanglab.github.io/multi-task-omics/
+**Live site:** https://pyanglab.github.io/MultiTaskOmics/
 
 The site is built with [MkDocs](https://www.mkdocs.org/) and the
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme, with a
@@ -64,7 +64,7 @@ Every push to `main` builds and deploys the site to GitHub Pages via
 
 **One-time setup:** in the repository, go to **Settings → Pages → Build and
 deployment** and set **Source** to **GitHub Actions**. The next push to `main`
-publishes to https://pyanglab.github.io/multi-task-omics/.
+publishes to https://pyanglab.github.io/MultiTaskOmics/.
 
 ### Using a custom domain
 

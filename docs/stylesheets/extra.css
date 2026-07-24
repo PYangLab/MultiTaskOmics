@@ -1815,7 +1815,7 @@ body.has-section-numbers .md-typeset .lp {
    join the .md-tabs <nav> as direct flex items of .md-header, place each with
    `order`, and absolutely-centre the tabs at the true header midpoint (the M3 look).
    The breakpoint is raised to 100em (from Material's 76.25em): the ecosystem title +
-   four tab labels + the full "PYangLab/multi-task-omics" repo need more room than
+   four tab labels + the full "PYangLab/MultiTaskOmics" repo need more room than
    M3's short "M3" title did, so between 76.25em and 100em we fall back to Material's
    default two-row header (tabs on their own row) instead of overlapping. Below
    76.25em → the drawer. */
@@ -1848,7 +1848,7 @@ body.has-section-numbers .md-typeset .lp {
     margin: 0;
   }
   .md-header .md-search         { order: 3; flex: 0 0 auto; margin-left: auto; }
-  /* Repo keeps its full natural width ("PYangLab/multi-task-omics"); the 100em
+  /* Repo keeps its full natural width ("PYangLab/MultiTaskOmics"); the 100em
      breakpoint guarantees the inline row has room for it. The ellipsis rule below
      is a harmless safety net (and matches M3's "your-org/m3" → "your-or…"). */
   .md-header .md-header__source { order: 4; flex: 0 0 auto; width: auto; margin: 0 2px; }
