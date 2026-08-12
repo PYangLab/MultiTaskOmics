@@ -14,7 +14,7 @@ multibatch, multi-condition single-cell analysis.
 | Tool | What it does | Docs |
 |---|---|---|
 | **M3** | Condition-aware deep factor learning: multimodal integration, patient-level inference, multi-resolution interpretation | https://pyanglab.github.io/M3/ |
-| **scMultiBench** | Benchmarking of single-cell multimodal integration methods with scIB metrics | *in preparation* |
+| **scMultiBench** | Benchmarking of single-cell multimodal integration methods with scIB metrics | https://dsichang.github.io/scMultiBench/ |
 | **Matilda** | One multi-task network — classification, dimension reduction, feature selection, simulation | https://pyanglab.github.io/Matilda/ |
 
 ## Project structure

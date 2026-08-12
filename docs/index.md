@@ -43,13 +43,12 @@ hide:
 </span>
 </a>
 
-<a class="dc-pkg" role="button" tabindex="0" aria-disabled="true" onclick="var n=this.querySelector('.dc-soon-note'); if(n){n.style.display='inline-flex';}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault(); var n=this.querySelector('.dc-soon-note'); if(n){n.style.display='inline-flex';}}" style="display:grid; grid-template-columns:auto 1fr; align-items:center; gap:20px; padding:18px 22px; border:1px solid var(--border); border-radius:14px; background:var(--bg-card); text-decoration:none; color:var(--text); cursor:pointer;">
+<a class="dc-pkg" href="https://dsichang.github.io/scMultiBench/" style="display:grid; grid-template-columns:auto 1fr; align-items:center; gap:20px; padding:18px 22px; border:1px solid var(--border); border-radius:14px; background:var(--bg-card); text-decoration:none; color:var(--text);">
 <span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; flex:0 0 auto;"><img src="assets/benchmark-logo-card.png" alt="scMultiBench" width="50" height="50" style="display:block; width:50px; height:50px; object-fit:contain;"></span>
 <span style="display:flex; flex-direction:column; min-width:0; gap:5px;">
 <span style="font-family:'Newsreader','Charter',Georgia,serif; font-size:20px; font-weight:600; line-height:1; color:var(--text);">scMultiBench</span>
 <span style="font-size:13.5px; line-height:1.5; color:var(--text-muted);">Run &amp; score 40+ integration methods with scIB metrics — rankings, bubble tables, an interactive explorer.</span>
 <span style="display:flex; flex-wrap:wrap; gap:6px; margin-top:3px;"><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Integration</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Batch correction</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Benchmarking</span></span>
-<span class="dc-soon-note" style="display:none; align-items:center; gap:6px; margin-top:4px; font-size:12.5px; font-weight:500; color:var(--brand-600);">🚧 In preparation — coming soon.</span>
 </span>
 </a>
 
