@@ -14,7 +14,7 @@ hide:
 <section class="dc-hero-split" style="display:grid; grid-template-columns:1fr 1.05fr; gap:52px; align-items:center; padding:58px 0 48px;">
 <div style="min-width:0;">
 <div style="font-size:11px; font-weight:600; letter-spacing:0.15em; text-transform:uppercase; color:var(--brand-600); margin-bottom:20px;">Single&#8209;cell method ecosystem</div>
-<h1 style="font-family:'Newsreader','Charter',Georgia,serif; font-size:54px; line-height:1.03; font-weight:600; letter-spacing:-0.022em; margin:0 0 22px; color:var(--text); max-width:13ch; text-wrap:balance;">Multi&#8209;Task Omics</h1>
+<h1 style="font-family:'Newsreader','Charter',Georgia,serif; font-size:54px; line-height:1.03; font-weight:600; letter-spacing:-0.022em; margin:0 0 22px; color:var(--text); text-wrap:balance;">Multi&#8209;Task Omics</h1>
 <p style="font-size:16.5px; line-height:1.62; color:var(--text-muted); margin:0 0 28px; max-width:46ch;">An ecosystem of methods for multimodal, multibatch, multi&#8209;condition single&#8209;cell analysis.</p>
 <div style="display:inline-block; background:var(--bg-subtle); border:1px solid var(--border); border-radius:8px; padding:12px 18px; font-family:'JetBrains Mono',ui-monospace,monospace; font-size:14px; line-height:1.5; color:var(--text); white-space:nowrap; max-width:100%; overflow-x:auto;"><span style="color:var(--brand-600); user-select:none; -webkit-user-select:none;">$ </span>pip install m3-sc multibench-sc matilda-sc</div>
 <div style="display:flex; align-items:center; gap:18px; margin-top:24px; flex-wrap:wrap;">
