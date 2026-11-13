@@ -49,9 +49,7 @@ environment for them:
 
 The last line prints `ready` when the three packages import.
 
-For one tool only, name its package alone, for example
-`pip install multibench-sc`. M3 or Matilda without scMultiBench needs one
-more requirement on the line: `pip install m3-sc "umap-learn!=0.6.0"`.
+For one tool only, name its package alone, for example `pip install m3-sc`.
 
 ### After the install
 
@@ -120,8 +118,7 @@ The import names are `m3`, `matilda` and `multibench`.
 
     scanpy's neighbour graph and UMAP fail on 8,192 cells or more with
     umap-learn 0.6.0, and on Python 3.10 and 3.11 with pynndescent 0.7.0.
-    scMultiBench keeps both out of the environment; M3 or Matilda installed
-    without it can get them. Replace them:
+    Replace them:
 
     ```bash title="terminal"
     pip install "umap-learn!=0.6.0" "pynndescent<0.7"
