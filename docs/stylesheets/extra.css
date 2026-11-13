@@ -2940,7 +2940,7 @@ input:focus-visible,
 .md-typeset a.dc-metalink:hover { color: var(--brand-600) !important; }
 @media (max-width: 65em) {
   .md-typeset .dc-hero-split { display: flex !important; flex-direction: column !important; align-items: flex-start !important; gap: 30px !important; padding-top: 42px !important; }
-  .md-typeset .dc-hero-split > div:last-child { width: 100%; }
+  .md-typeset .dc-hero-split > div { width: 100%; }
   .md-typeset .dc-hero-split h1 { font-size: 44px !important; }
 }
 @media (max-width: 59.99em) {
