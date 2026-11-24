@@ -44,6 +44,10 @@ hide:
 <span style="display:flex; flex-wrap:wrap; gap:6px; margin-top:3px;"><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Integration</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Patient prediction</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Attribution</span></span>
 </span>
 </a>
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin:-6px 0 4px 92px; font-size:13px;">
+<a class="dc-metalink" href="https://pyanglab.github.io/M3/" aria-label="M3 documentation" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">Documentation</a>
+<a class="dc-metalink" href="https://github.com/PYangLab/M3" aria-label="M3 GitHub repository" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">GitHub repository</a>
+</div>
 
 <a class="dc-pkg" href="https://dsichang.github.io/scMultiBench/" style="display:grid; grid-template-columns:auto 1fr; align-items:center; gap:20px; padding:18px 22px; border:1px solid var(--border); border-radius:14px; background:var(--bg-card); text-decoration:none; color:var(--text);">
 <span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; flex:0 0 auto;"><img src="assets/benchmark-logo-card.png" alt="scMultiBench" width="50" height="50" style="display:block; width:50px; height:50px; object-fit:contain;"></span>
@@ -53,6 +57,10 @@ hide:
 <span style="display:flex; flex-wrap:wrap; gap:6px; margin-top:3px;"><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Integration</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Batch correction</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Benchmarking</span></span>
 </span>
 </a>
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin:-6px 0 4px 92px; font-size:13px;">
+<a class="dc-metalink" href="https://dsichang.github.io/scMultiBench/" aria-label="scMultiBench documentation" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">Documentation</a>
+<a class="dc-metalink" href="https://github.com/PYangLab/scMultiBench" aria-label="scMultiBench GitHub repository" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">GitHub repository</a>
+</div>
 
 <a class="dc-pkg" href="https://pyanglab.github.io/Matilda/" style="display:grid; grid-template-columns:auto 1fr; align-items:center; gap:20px; padding:18px 22px; border:1px solid var(--border); border-radius:14px; background:var(--bg-card); text-decoration:none; color:var(--text);">
 <span style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; flex:0 0 auto;"><img src="assets/matilda-logo-card.png" alt="Matilda" width="50" height="50" style="display:block; width:50px; height:50px; object-fit:contain;"></span>
@@ -62,6 +70,10 @@ hide:
 <span style="display:flex; flex-wrap:wrap; gap:6px; margin-top:3px;"><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Classification</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Dimension reduction</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Feature selection</span><span style="font-size:11px; color:var(--text-faint); border:1px solid var(--border); border-radius:5px; padding:2px 8px; white-space:nowrap;">Simulation</span></span>
 </span>
 </a>
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin:-6px 0 4px 92px; font-size:13px;">
+<a class="dc-metalink" href="https://pyanglab.github.io/Matilda/" aria-label="Matilda documentation" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">Documentation</a>
+<a class="dc-metalink" href="https://github.com/PYangLab/Matilda" aria-label="Matilda GitHub repository" style="color:var(--brand-600); text-decoration:underline; text-underline-offset:3px;">GitHub repository</a>
+</div>
 
 </div>
 </div>
